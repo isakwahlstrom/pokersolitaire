@@ -1,0 +1,2 @@
+# pokersolitaire
+Poker solitaire, Java.
